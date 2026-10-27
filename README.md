@@ -1,8 +1,3 @@
-# 👑 Sakshi: The Series — Emerald Green (Hela Edition)
-
-Built with the exact architecture, Framer Motion choreography, and Lenis smooth scrolling of **[Sushmitadasari/Portfolio_series](https://github.com/Sushmitadasari/Portfolio_series)**, customized with **Marvel's Hela Emerald Green** visual aesthetic and **Sakshi S. Padiyar's** complete resume data.
-
----
 
 ## ⚡ Highlights
 - **Exact Cinematic Feel**:
