@@ -9,10 +9,10 @@ export const profile = {
   fullName: 'Sakshi S. Padiyar',
   displayName: 'Sakshi S. Padiyar',
   firstName: 'SAKSHI',
-  seriesTag: 'THE SERIES // HELA EDITION',
-  originalLabel: 'A SAKSHI ORIGINAL',
+  seriesTag: 'S PADIYAR',
+  originalLabel: 'SAKSHI',
   role: 'Full-Stack Developer • AI & Systems Engineer',
-  tagline: ['Website Architect', 'Frontend & Backend', 'Power BI & Analytics', 'Hardware & Firmware'],
+  tagline: ['Website Architect', 'Frontend & Backend', 'Power BI & Analytics', 'Hardware & Firmware','Graphic design'],
   intro:
     'A passionate developer who loves creating modern websites, scalable backend architectures, and data dashboards with Power BI. Building across Python, C, React, Node.js, SQL, and MongoDB — from gamified web platforms to offline hardware security vaults.',
   location: 'Puttur, Karnataka, India',
