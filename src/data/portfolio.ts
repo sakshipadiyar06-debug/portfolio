@@ -36,7 +36,7 @@ export const education = [
     school: 'Vivekananda College of Engineering and Technology',
     place: 'Puttur, Karnataka',
     degree: 'Artificial Intelligence & Machine Learning Engineering',
-    period: '2023 – Present',
+    period: '2026 – Present',
     score: 'CGPA 9.14',
   },
 ];
@@ -46,7 +46,7 @@ export const experience = [
     company: 'Digicomp Technologies',
     role: 'Engineering Intern',
     place: 'Puttur, Karnataka',
-    period: '2025 – Present',
+    period: '2026 – Present',
     points: [
       'Creating responsive and modern websites and software solutions with clean frontend UI and robust backend communication.',
       'Developing and flashing microcontroller firmware for the ESP32-S3, optimizing memory and hardware protocols.',
